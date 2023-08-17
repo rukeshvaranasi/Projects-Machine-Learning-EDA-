@@ -1,1 +1,4 @@
-
+Conclusion:-
+- Based on the above analysis, Random Forest Regression is the best algorithm for predicting medical costs.
+- The algorithm shows high accuracy and low error rates compared to other methods.
+- Random Forest Regression can handle complex and nonlinear relationships between features and target variable.
