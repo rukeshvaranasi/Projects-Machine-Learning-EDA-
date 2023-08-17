@@ -1,0 +1,11 @@
+/* Highlight the accuracy value */
+.accuracy-highlight {
+    font-weight: bold;
+    color: #008000; /* Set the text color to green */
+}
+
+/* Highlight the predicted output */
+.prediction-highlight {
+    font-weight: bold;
+    color: #FF0000; /* Set the text color to red */
+}
