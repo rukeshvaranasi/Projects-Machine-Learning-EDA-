@@ -1,1 +1,4 @@
-
+Conclusion:-
+- Based on the above algorithms, most of them perform well, but "Decision Tree Classifier" and "KNN Classifier" are the most accurate for Churn Prediction.
+- The above algorithms show that the "Decision Tree Classifier" and "KNN Classifier" have the highest accuracy for Churn Prediction, while the others are also good.
+- "Decision Tree Classifier" and "KNN Classifier" are the best algorithms for Churn Prediction among the ones tested above, as they have the highest performance.
