@@ -1,1 +1,3 @@
-
+- Decision tree model has the advantages of low latency, high accuracy and easy deployment for the classification of handwritten alphabets.
+- Random Forest model and KNN model have higher accuracy than the Decision Tree model, but they also have much higher prediction time.
+- Therefore, the Decision Tree model is the best choice for this task among the other models.
